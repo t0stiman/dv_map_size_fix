@@ -1,0 +1,8 @@
+.idea
+bin
+obj
+packages
+Directory.Build.targets
+dv_map_size_fix.lnk
+Folder.DotSettings.user
+*.zip

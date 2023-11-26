@@ -1,0 +1,10 @@
+{
+	"Id": "dv_map_size_fix",
+	"Version": "0.0.1",
+	"DisplayName": "Map size fix",
+	"Author": "Tostiman",
+	"EntryMethod": "dv_map_size_fix.Main.Load",
+	"AssemblyName": "dv_map_size_fix.dll",
+	"HomePage": "https://github.com/t0stiman/dv_map_size_fix",
+	"Repository": "https://raw.githubusercontent.com/t0stiman/dv_map_size_fix/master/repository.json"
+}
